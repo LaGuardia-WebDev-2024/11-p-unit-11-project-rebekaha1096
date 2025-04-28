@@ -1,11 +1,9 @@
 body {
-   background-image: url("https://thumbs.dreamstime.com/b/fondo-floral-primaveral-con-ramas-de-flores-primaverales-florecientes-sobre-rosa-rosado-espacio-vac%C3%ADo-para-texto-tiempo-primavera-363398326.jpg");/
-   background-size: cover;
-  background-repeat: no-repeat;
+   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-romantic-beautiful-rose-flower-background-design-flower-backgroundplant-backgroundholiday-image_70028.jpg); /
+    background-size: cover;
+     background-repeat: no-repeat;
   
-  
-  
-  background-color: aliceblue;
+  background-color:;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -21,15 +19,15 @@ html{
 
 #myCanvas {
   border: 1px solid black;
-  background-image:url("https://static.vecteezy.com/system/resources/previews/042/719/892/non_2x/spring-glade-in-forest-with-flowering-pink-flowers-in-sunny-day-tranquil-natural-spring-landscape-with-flowers-blurred-forest-field-background-soft-focus-photo.jpg");/
+  background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDI4LTAwNTRfMS5qcGc.jpg); /
     background-size: cover;
-  background-repeat: no-repeat;
+     background-repeat: no-repeat;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: green;
+  background-color: pink;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
