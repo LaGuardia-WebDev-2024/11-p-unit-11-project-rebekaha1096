@@ -1,5 +1,9 @@
 body {
-  background-color: aliceblue;
+   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-romantic-beautiful-rose-flower-background-design-flower-backgroundplant-backgroundholiday-image_70028.jpg); /
+    background-size: cover;
+     background-repeat: no-repeat;
+  
+  background-color:;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,12 +19,15 @@ html{
 
 #myCanvas {
   border: 1px solid black;
+  background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDI4LTAwNTRfMS5qcGc.jpg); /
+    background-size: cover;
+     background-repeat: no-repeat;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: pink;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
